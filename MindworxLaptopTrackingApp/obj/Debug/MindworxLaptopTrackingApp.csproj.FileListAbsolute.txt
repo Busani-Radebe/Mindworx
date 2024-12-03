@@ -1,0 +1,8 @@
+C:\Users\Busan\source\repos\MindworxLaptopTrackingApp\MindworxLaptopTrackingApp\obj\Debug\MindworxLaptopTrackingApp.csproj.AssemblyReference.cache
+C:\Users\Busan\source\repos\MindworxLaptopTrackingApp\MindworxLaptopTrackingApp\obj\Debug\MindworxLaptopTrackingApp.dashboard.resources
+C:\Users\Busan\source\repos\MindworxLaptopTrackingApp\MindworxLaptopTrackingApp\obj\Debug\MindworxLaptopTrackingApp.notification.resources
+C:\Users\Busan\source\repos\MindworxLaptopTrackingApp\MindworxLaptopTrackingApp\obj\Debug\MindworxLaptopTrackingApp.selfieCapturePage.resources
+C:\Users\Busan\source\repos\MindworxLaptopTrackingApp\MindworxLaptopTrackingApp\obj\Debug\MindworxLaptopTrackingApp.Login_Screen.resources
+C:\Users\Busan\source\repos\MindworxLaptopTrackingApp\MindworxLaptopTrackingApp\obj\Debug\MindworxLaptopTrackingApp.Properties.Resources.resources
+C:\Users\Busan\source\repos\MindworxLaptopTrackingApp\MindworxLaptopTrackingApp\obj\Debug\MindworxLaptopTrackingApp.csproj.GenerateResource.cache
+C:\Users\Busan\source\repos\MindworxLaptopTrackingApp\MindworxLaptopTrackingApp\obj\Debug\MindworxLaptopTrackingApp.csproj.CoreCompileInputs.cache
